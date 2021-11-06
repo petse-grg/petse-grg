@@ -2,7 +2,8 @@
 
 - 👀 I’m interested in Computing with C/C++/Java.. Python/Javascript/HTML/CSS
 
-- 🌱 I’m currently learning Web Programming Python and JaaScript 
+- 🌱 I’m currently learning Web Programming with Python and JavaScript including other tech. below
+      
       {- HTML and CSS, 
        - Git,
        - Django, 

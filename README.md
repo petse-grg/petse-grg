@@ -1,0 +1,21 @@
+- 👋 Hi, I’m Pemba Gurung (@petse-grg)
+
+- 👀 I’m interested in Computing with C/C++/Java.. Python/Javascript/HTML/CSS
+
+- 🌱 I’m currently learning Web Programming Python and JaaScript 
+      {- HTML and CSS, 
+       - Git,
+       - Django, 
+       - SQL, Models and Migrations, 
+       - User interfaces, 
+       - Testing and CI/CD, 
+       - Scability and Security}
+
+- 💞️ I’m looking for an Entry Level Software Developer ...
+
+- 📫 gurungpemba.t@gmail.com - linkedin.com/in/pemba-gurung-161803
+
+<!---
+petse-grg/petse-grg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

@@ -13,7 +13,7 @@
 
 - 💞️ I’m looking for an Entry Level Software Developer ...
 
-- 📫 gurungpemba.t@gmail.com - linkedin.com/in/pemba-gurung-161803
+- 📫 gurungpemba.t@gmail.com 
 
 <!---
 petse-grg/petse-grg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

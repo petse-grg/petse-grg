@@ -12,7 +12,7 @@
        - Testing and CI/CD, 
        - Scability and Security}
 
-- 💞️ I’m looking for an Entry Level Software Developer Position...
+- 💞️ Currently, I am in search of Job with an Entry Level Software Developer Position...
 
 - 📫 gurungpemba.t@gmail.com 
 

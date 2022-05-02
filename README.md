@@ -12,7 +12,7 @@
        - Testing and CI/CD, 
        - Scability and Security}
 
-- 💞️ Currently, I am in search of Job with an Entry Level Software Developer Position...
+- 💞️ I am a Jr. Software Developer (Java Backend ).
 
 - 📫 gurungpemba.t@gmail.com 
 

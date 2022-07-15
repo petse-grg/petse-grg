@@ -2,17 +2,10 @@
 
 - 👀 I’m interested in Computing with C/C++/Java.. Python/Javascript/HTML/CSS
 
-- 🌱 I’m currently learning Web Programming with Python and JavaScript including other tech. below
-      
-      {- HTML and CSS, 
-       - Git,
-       - Django, 
-       - SQL, Models and Migrations, 
-       - User interfaces, 
-       - Testing and CI/CD, 
-       - Scability and Security}
+- 🌱 I’m currently learning cs50 Web Programming with Python | JavaScript | HTML | CSS | Django
+     CodeAcademy
 
-- 💞️ I am a Jr. Software Developer (Java Backend ).
+- 💞️ I am a Jr. Software Developer (Java Backend Dev).
 
 - 📫 gurungpemba.t@gmail.com 
 
